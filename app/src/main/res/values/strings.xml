@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">ProjectBeginner</string>
+
+    <string name="title">Judul Anime</string>
+    <string name="status">Status</string>
+    <string name="episode">Total Episode</string>
+    <string name="genres">Genre</string>
+    <string name="rating">Average Score</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Blue Lock</item>
+        <item>Chainsaw Man</item>
+        <item>Tokyo Revengers: Seiya Kessen-hen</item>
+        <item>Vinland Saga Season 2</item>
+        <item>Beastars</item>
+        <item>Summertime Render</item>
+        <item>Tomo-chan wa Onnanoko!</item>
+        <item>Spy Kyoushitsu</item>
+        <item>Karakai Jouzo no Takagi-san</item>
+        <item>Domestic na Kanojo</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Sports</item>
+        <item>Action, Fantasy</item>
+        <item>Action, Drama, Supernatural</item>
+        <item>Action, Adventure, Drama</item>
+        <item>Drama, Slice of Life</item>
+        <item>Mystery, Supernatural, Suspense</item>
+        <item>Comedy, Romance</item>
+        <item>Action, Fantasy, Mystery</item>
+        <item>Comedy</item>
+        <item>Drama, Romance</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Releasing</item>
+        <item>Finished</item>
+        <item>Releasing</item>
+        <item>Releasing</item>
+        <item>Finished</item>
+        <item>Finished</item>
+        <item>Releasing</item>
+        <item>Releasing</item>
+        <item>Finished</item>
+        <item>Finished</item>
+    </string-array>
+
+    <string-array name="data_episode">
+        <item>24</item>
+        <item>12</item>
+        <item>13</item>
+        <item>24</item>
+        <item>12</item>
+        <item>25</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>81%</item>
+        <item>86%</item>
+        <item>76%</item>
+        <item>85%</item>
+        <item>78%</item>
+        <item>85%</item>
+        <item>76%</item>
+        <item>61%</item>
+        <item>78%</item>
+        <item>66%</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-4dVWMSHLpGf8.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136430-f8Iza5GEynRW.jpg</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107660-nANW2Fco3aDK.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129201-HJBauga2be8I.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151806-IAMi2ctI5xJI.jpg</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146323-vyj1w1VRgDN7.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99468-XayCplkIL3Gf.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103139-2TfvRyGTE1qp.jpg</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>After a disastrous defeat at the 2018 World Cup, Japan team struggles to regroup. But whats missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match…and to do so, theyve gathered 300 of Japans best and brightest youth players. Who will emerge to lead the team…and will they be able to out-muscle and out-ego everyone who stands in their way?</item>
+        <item>Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita. One day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as "Chainsaw Man" — a man with a devils heart.</item>
+        <item>Despite feeling hopeless, Takemichi travels to the past once again to investigate Black Dragon, a rival motorcycle gang whose actions ultimately lead to Hinatas demise. There, he meets the young Hakkai Shiba, a fellow gang member whose older brother, Taiju, tyrannically rules Black Dragon. Takemichi, with Chifuyu on his side, works to unravel the fates of Black Dragons members, fighting to create a happy future for his loved ones.</item>
+        <item>After his fathers death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave.</item>
+        <item>In a civilized society of anthropomorphic animals, an uneasy tension exists between carnivores and herbivores. At Cherryton Academy, this mutual distrust peaks after a predation incident results in the death of Tem, an alpaca in the schools drama club. Tems friend Legoshi, a grey wolf in the stage crew, has been an object of fear and suspicion for his whole life. In the immediate aftermath of the tragedy, he continues to lay low and hide his menacing traits, much to the disapproval of Louis, a red deer and the domineering star actor of the drama club.</item>
+        <item>Since the death of his parents, Shinpei Ajiro had lived with the Kofune family and their two daughters—Mio and Ushio. Although he then left his home island to continue his education in Tokyo, Shinpei returns after Ushio tragically drowns during the attempted rescue of a little girl. During the funeral, his best friend informs him about bruises found around Ushios neck, casting doubt over the cause of her death.</item>
+        <item>Childhood friends Tomo Aizawa and Junichirou "Jun" Kubota do everything together, whether it be training or just enjoying a fun day out. Anyone would think that these two are best friends for life. The only issue is that the tomboyish Tomo is in love with Jun, but he regards her like a brother.</item>
+        <item>A decade ago, mankind witnessed the deadly potential of weapons caused by the Great War. To avoid another catastrophe, governments worldwide have resorted to espionage to fulfill their agendas. In the Din Republic, Lily is an enthusiastic young girl who aspires to become a spy and serve her nation. However, she begins to doubt her abilities, as she struggles to perform well academically. Lilys passion is reignited when she is offered provisional graduation by joining the spy team Lamplight, which she eagerly accepts despite the enigmatic nature of the opportunity.</item>
+        <item>Having a friend that knows you inside out should be a good thing, but in Nishikatas case, the opposite is true. His classmate Takagi loves to tease him on a daily basis, and she uses her extensive knowledge of his behavior to predict exactly how he will react to her teasing, making it nearly impossible for Nishikata to ever make a successful comeback. Despite this, Nishikata vows to someday give Takagi a taste of her own medicine by making her blush out of embarrassment from his teasing.</item>
+        <item>In their teenage years, few things can hurt people more than the heartaches that come with unrequited love. Such is the case for Natsuo Fujii, who has found himself entranced by his schools ever-cheerful teacher Hina. Deflated by this unreachable desire, Natsuo humors his friends and attends a mixer. There he meets Rui, a girl whose lack of excitement rivals that of himself. After bonding over their mutual awkwardness, Rui takes Natsuo to her house and asks him to have sex with her, hoping that the experience will stop her friends from treating her like a clueless child. With his hopeless feelings towards Hina still on his mind, Natsuo hesitantly agrees.</item>
+    </string-array>
+
+    <string name="judul">Ini Judul Anime</string>
+    <string name="airing">Ini Status</string>
+    <string name="episode2">Ini Total Episode</string>
+    <string name="genre">Ini Genre</string>
+    <string name="nilai">Ini Score</string>
+    <string name="deskripsi">Synopsis</string>
+    <string name="tentang">About</string>
+
+    <string name="share">Bagikan</string>
+    <string name="photo">Gambar</string>
+    <string name="about">About Me</string>
+    <string name="name">Utsman Abdurrahman</string>
+    <string name="email">a013dkx4463@bangkit.academy</string>
+    <string name="welcome">Welcome to ProjectBeginner!</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+</resources>
